@@ -1,9 +1,28 @@
+<div align="center">
+
+<img src="assets/cover.png" alt="Crear Agente" width="840">
+
+</div>
+
 # 🤖 Crear Agente — Skill para Claude Code
 
 > Crea automatizaciones inteligentes (agentes de IA) en la nube de Cloudflare, paso a paso, en español sencillo, sin necesidad de saber programar.
 
-[![Instala con un comando](https://img.shields.io/badge/instalar-1_comando-cyan)](#-instalación)
-[![Funciona en Mac y Windows](https://img.shields.io/badge/macOS-✓-blue)](#) [![Windows](https://img.shields.io/badge/Windows-✓-blue)](#) [![Linux](https://img.shields.io/badge/Linux-✓-blue)](#)
+<div align="center">
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Agents%20SDK-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pushover](https://img.shields.io/badge/Pushover-notificaciones-249DF1?style=flat-square)
+![Sin código](https://img.shields.io/badge/💡-sin%20código-22C55E?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS-✓-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-✓-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-✓-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br>
+
+[![Instalar con 1 comando](https://img.shields.io/badge/⚡%20Instalar%20con-1%20comando-06B6D4?style=flat-square)](#-instalación)
+
+</div>
 
 ---
 
